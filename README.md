@@ -3,6 +3,8 @@
 
 This project showcases a dynamic **Power BI dashboard** built for analyzing real-time sales data from **Shopify**. It highlights key business metrics and provides actionable insights for e-commerce performance tracking.
 
+<img width="1198" height="705" alt="image" src="https://github.com/user-attachments/assets/94434d45-d1a4-4b4c-896f-e9d1d3e25e2d" />
+
 
 ## 📊 Project Overview
 

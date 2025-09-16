@@ -5,6 +5,9 @@ This project showcases a dynamic **Power BI dashboard** built for analyzing real
 
 <img width="1198" height="705" alt="image" src="https://github.com/user-attachments/assets/94434d45-d1a4-4b4c-896f-e9d1d3e25e2d" />
 
+<img width="1197" height="655" alt="image" src="https://github.com/user-attachments/assets/615aa5ae-cce0-4679-bf01-e4c072480efb" />
+
+
 
 ## 📊 Project Overview
 
